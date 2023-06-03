@@ -1,0 +1,210 @@
+<svg width="1170" height="701" viewBox="0 0 1170 701" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <filter x="-31.3%" y="-27.1%" width="162.7%" height="201.1%" filterUnits="objectBoundingBox" id="a">
+            <feMorphology radius="5" in="SourceAlpha" result="shadowSpreadOuter1"/>
+            <feOffset dy="12" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+            <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0" in="shadowBlurOuter1"/>
+        </filter>
+        <filter x="-29.6%" y="-27.1%" width="159.2%" height="201.1%" filterUnits="objectBoundingBox" id="d">
+            <feMorphology radius="5" in="SourceAlpha" result="shadowSpreadOuter1"/>
+            <feOffset dy="12" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+            <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0" in="shadowBlurOuter1"/>
+        </filter>
+        <filter x="-31.3%" y="-27.1%" width="162.7%" height="201.1%" filterUnits="objectBoundingBox" id="g">
+            <feMorphology radius="5" in="SourceAlpha" result="shadowSpreadOuter1"/>
+            <feOffset dy="12" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+            <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0" in="shadowBlurOuter1"/>
+        </filter>
+        <filter x="-31.3%" y="-27.1%" width="162.7%" height="201.1%" filterUnits="objectBoundingBox" id="i">
+            <feMorphology radius="5" in="SourceAlpha" result="shadowSpreadOuter1"/>
+            <feOffset dy="12" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+            <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0" in="shadowBlurOuter1"/>
+        </filter>
+        <filter x="-34.4%" y="-27.1%" width="168.9%" height="201.1%" filterUnits="objectBoundingBox" id="k">
+            <feMorphology radius="5" in="SourceAlpha" result="shadowSpreadOuter1"/>
+            <feOffset dy="12" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+            <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0" in="shadowBlurOuter1"/>
+        </filter>
+        <filter x="-25.9%" y="-27.1%" width="151.9%" height="201.1%" filterUnits="objectBoundingBox" id="n">
+            <feMorphology radius="5" in="SourceAlpha" result="shadowSpreadOuter1"/>
+            <feOffset dy="12" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+            <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0" in="shadowBlurOuter1"/>
+        </filter>
+        <filter x="-31.3%" y="-27.1%" width="162.7%" height="201.1%" filterUnits="objectBoundingBox" id="q">
+            <feMorphology radius="5" in="SourceAlpha" result="shadowSpreadOuter1"/>
+            <feOffset dy="12" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+            <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0" in="shadowBlurOuter1"/>
+        </filter>
+        <filter x="-31.3%" y="-27.1%" width="162.7%" height="201.1%" filterUnits="objectBoundingBox" id="s">
+            <feMorphology radius="5" in="SourceAlpha" result="shadowSpreadOuter1"/>
+            <feOffset dy="12" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+            <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0" in="shadowBlurOuter1"/>
+        </filter>
+        <filter x="-24.1%" y="-27.1%" width="148.3%" height="201.1%" filterUnits="objectBoundingBox" id="u">
+            <feMorphology radius="5" in="SourceAlpha" result="shadowSpreadOuter1"/>
+            <feOffset dy="12" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+            <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0" in="shadowBlurOuter1"/>
+        </filter>
+        <filter x="-25.9%" y="-27.1%" width="151.9%" height="201.1%" filterUnits="objectBoundingBox" id="x">
+            <feMorphology radius="5" in="SourceAlpha" result="shadowSpreadOuter1"/>
+            <feOffset dy="12" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+            <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0" in="shadowBlurOuter1"/>
+        </filter>
+        <filter x="-25.9%" y="-27.1%" width="151.9%" height="201.1%" filterUnits="objectBoundingBox" id="z">
+            <feMorphology radius="5" in="SourceAlpha" result="shadowSpreadOuter1"/>
+            <feOffset dy="12" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+            <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0" in="shadowBlurOuter1"/>
+        </filter>
+        <filter x="-22.6%" y="-27.1%" width="145.2%" height="201.1%" filterUnits="objectBoundingBox" id="B">
+            <feMorphology radius="5" in="SourceAlpha" result="shadowSpreadOuter1"/>
+            <feOffset dy="12" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+            <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0" in="shadowBlurOuter1"/>
+        </filter>
+        <path d="M64 0a3 3 0 0 1 3 3v28a3 3 0 0 1-3 3H41.806a3.048 3.048 0 0 1-.114.121l-5.657 5.657a3 3 0 0 1-4.243 0l-5.657-5.657-.113-.121H3a3 3 0 0 1-3-3V3a3 3 0 0 1 3-3h61z" id="b"/>
+        <path d="M68 0a3 3 0 0 1 3 3v28a3 3 0 0 1-3 3H43.83a3.048 3.048 0 0 1-.114.121l-5.656 5.657a3 3 0 0 1-4.243 0l-5.657-5.657-.113-.121H3a3 3 0 0 1-3-3V3a3 3 0 0 1 3-3h65z" id="e"/>
+        <path d="M64 0a3 3 0 0 1 3 3v28a3 3 0 0 1-3 3H41.806a3.048 3.048 0 0 1-.114.121l-5.657 5.657a3 3 0 0 1-4.243 0l-5.657-5.657-.113-.121H3a3 3 0 0 1-3-3V3a3 3 0 0 1 3-3h61z" id="h"/>
+        <path d="M64 0a3 3 0 0 1 3 3v28a3 3 0 0 1-3 3H41.806a3.048 3.048 0 0 1-.114.121l-5.657 5.657a3 3 0 0 1-4.243 0l-5.657-5.657-.113-.121H3a3 3 0 0 1-3-3V3a3 3 0 0 1 3-3h61z" id="j"/>
+        <path d="M58 0a3 3 0 0 1 3 3v28a3 3 0 0 1-3 3H38.769a3.048 3.048 0 0 1-.114.121l-5.657 5.657a3 3 0 0 1-4.243 0l-5.657-5.657-.113-.121H3a3 3 0 0 1-3-3V3a3 3 0 0 1 3-3h55z" id="l"/>
+        <path d="M78 0a3 3 0 0 1 3 3v28a3 3 0 0 1-3 3H48.892a3.048 3.048 0 0 1-.114.121l-5.657 5.657a3 3 0 0 1-4.242 0l-5.657-5.657-.114-.121H3a3 3 0 0 1-3-3V3a3 3 0 0 1 3-3h75z" id="o"/>
+        <path d="M64 0a3 3 0 0 1 3 3v28a3 3 0 0 1-3 3H41.806a3.048 3.048 0 0 1-.114.121l-5.657 5.657a3 3 0 0 1-4.243 0l-5.657-5.657-.113-.121H3a3 3 0 0 1-3-3V3a3 3 0 0 1 3-3h61z" id="r"/>
+        <path d="M64 0a3 3 0 0 1 3 3v28a3 3 0 0 1-3 3H41.806a3.048 3.048 0 0 1-.114.121l-5.657 5.657a3 3 0 0 1-4.243 0l-5.657-5.657-.113-.121H3a3 3 0 0 1-3-3V3a3 3 0 0 1 3-3h61z" id="t"/>
+        <path d="M84 0a3 3 0 0 1 3 3v28a3 3 0 0 1-3 3H51.93a3.048 3.048 0 0 1-.115.121l-5.657 5.657a3 3 0 0 1-4.242 0l-5.657-5.657-.114-.121H3a3 3 0 0 1-3-3V3a3 3 0 0 1 3-3h81z" id="v"/>
+        <path d="M78 0a3 3 0 0 1 3 3v28a3 3 0 0 1-3 3H48.892a3.048 3.048 0 0 1-.114.121l-5.657 5.657a3 3 0 0 1-4.242 0l-5.657-5.657-.114-.121H3a3 3 0 0 1-3-3V3a3 3 0 0 1 3-3h75z" id="y"/>
+        <path d="M78 0a3 3 0 0 1 3 3v28a3 3 0 0 1-3 3H48.892a3.048 3.048 0 0 1-.114.121l-5.657 5.657a3 3 0 0 1-4.242 0l-5.657-5.657-.114-.121H3a3 3 0 0 1-3-3V3a3 3 0 0 1 3-3h75z" id="A"/>
+        <path d="M90 0a3 3 0 0 1 3 3v28a3 3 0 0 1-3 3H54.966a3.048 3.048 0 0 1-.114.121l-5.657 5.657a3 3 0 0 1-4.242 0l-5.657-5.657-.114-.121H3a3 3 0 0 1-3-3V3a3 3 0 0 1 3-3h87z" id="C"/>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="c">
+            <stop stop-color="#FF9614" offset="0%"/>
+            <stop stop-color="#E1742C" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="f">
+            <stop stop-color="#FF9614" offset="0%"/>
+            <stop stop-color="#E1742C" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="m">
+            <stop stop-color="#FF9614" offset="0%"/>
+            <stop stop-color="#E1742C" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="p">
+            <stop stop-color="#FF9614" offset="0%"/>
+            <stop stop-color="#E1742C" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="w">
+            <stop stop-color="#FF9614" offset="0%"/>
+            <stop stop-color="#E1742C" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="D">
+            <stop stop-color="#FF9614" offset="0%"/>
+            <stop stop-color="#E1742C" offset="100%"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g fill-rule="nonzero" transform="translate(646 246)">
+            <use fill="#000" filter="url(#a)" xlink:href="#b"/>
+            <use fill="url(#c)" xlink:href="#b"/>
+        </g>
+        <text font-family="Montserrat-SemiBold, Montserrat" font-size="13" font-weight="500" letter-spacing=".542" fill="#FFF" transform="translate(646 246)">
+                            <tspan x="15.443" y="21">Baku</tspan>
+                        </text>
+        <g fill-rule="nonzero" transform="translate(273 112)">
+            <use fill="#000" filter="url(#d)" xlink:href="#e"/>
+            <use fill="url(#f)" xlink:href="#e"/>
+        </g>
+        <text font-family="Montserrat-SemiBold, Montserrat" font-size="13" font-weight="500" letter-spacing=".542" fill="#FFF" transform="translate(273 112)">
+                            <tspan x="11.167" y="21">Gabala</tspan>
+                        </text>
+        <g fill-rule="nonzero" transform="translate(143 52)">
+            <use fill="#000" filter="url(#g)" xlink:href="#h"/>
+            <use fill="url(#c)" xlink:href="#h"/>
+        </g>
+        <text font-family="Montserrat-SemiBold, Montserrat" font-size="13" font-weight="500" letter-spacing=".542" fill="#FFF" transform="translate(143 52)">
+                            <tspan x="13.963" y="21">Sheki</tspan>
+                        </text>
+        <g fill-rule="nonzero" transform="translate(198 89)">
+            <use fill="#000" filter="url(#i)" xlink:href="#j"/>
+            <use fill="url(#c)" xlink:href="#j"/>
+        </g>
+        <text font-family="Montserrat-SemiBold, Montserrat" font-size="13" font-weight="500" letter-spacing=".542" fill="#FFF" transform="translate(198 89)">
+                            <tspan x="10.238" y="21">Oghuz</tspan>
+                        </text>
+        <g fill-rule="nonzero" transform="translate(103)">
+            <use fill="#000" filter="url(#k)" xlink:href="#l"/>
+            <use fill="url(#m)" xlink:href="#l"/>
+        </g>
+        <text font-family="Montserrat-SemiBold, Montserrat" font-size="13" font-weight="500" letter-spacing=".542" fill="#FFF" transform="translate(103)">
+                            <tspan x="11.788" y="21">Qakh</tspan>
+                        </text>
+        <g fill-rule="nonzero" transform="translate(319 155)">
+            <use fill="#000" filter="url(#n)" xlink:href="#o"/>
+            <use fill="url(#p)" xlink:href="#o"/>
+        </g>
+        <text font-family="Montserrat-SemiBold, Montserrat" font-size="13" font-weight="500" letter-spacing=".542" fill="#FFF" transform="translate(319 155)">
+                            <tspan x="11.146" y="21">Ismayilli</tspan>
+                        </text>
+        <g>
+            <g fill-rule="nonzero" transform="translate(400 23)">
+                <use fill="#000" filter="url(#q)" xlink:href="#r"/>
+                <use fill="url(#c)" xlink:href="#r"/>
+            </g>
+            <text font-family="Montserrat-SemiBold, Montserrat" font-size="13" font-weight="500" letter-spacing=".542" fill="#FFF" transform="translate(400 23)">
+                            <tspan x="14.572" y="21">Quba</tspan>
+                        </text>
+        </g>
+        <g>
+            <g fill-rule="nonzero" transform="translate(344 5)">
+                <use fill="#000" filter="url(#s)" xlink:href="#t"/>
+                <use fill="url(#c)" xlink:href="#t"/>
+            </g>
+            <text font-family="Montserrat-SemiBold, Montserrat" font-size="13" font-weight="500" letter-spacing=".542" fill="#FFF" transform="translate(344 5)">
+                            <tspan x="12.637" y="21">Qusar</tspan>
+                        </text>
+        </g>
+        <g>
+            <g fill-rule="nonzero" transform="translate(318 64)">
+                <use fill="#000" filter="url(#u)" xlink:href="#v"/>
+                <use fill="url(#w)" xlink:href="#v"/>
+            </g>
+            <text font-family="Montserrat-SemiBold, Montserrat" font-size="13" font-weight="500" letter-spacing=".542" fill="#FFF" transform="translate(318 64)">
+                            <tspan x="12.215" y="21">Shahdag</tspan>
+                        </text>
+        </g>
+        <g>
+            <g fill-rule="nonzero" transform="translate(446 641)">
+                <use fill="#000" filter="url(#x)" xlink:href="#y"/>
+                <use fill="url(#p)" xlink:href="#y"/>
+            </g>
+            <text font-family="Montserrat-SemiBold, Montserrat" font-size="13" font-weight="500" letter-spacing=".542" fill="#FFF" transform="translate(446 641)">
+                            <tspan x="7.419" y="21">Lankaran</tspan>
+                        </text>
+        </g>
+        <g>
+            <g fill-rule="nonzero" transform="translate(10 181)">
+                <use fill="#000" filter="url(#z)" xlink:href="#A"/>
+                <use fill="url(#p)" xlink:href="#A"/>
+            </g>
+            <text font-family="Montserrat-SemiBold, Montserrat" font-size="13" font-weight="500" letter-spacing=".542" fill="#FFF" transform="translate(10 181)">
+                            <tspan x="20.367" y="21">Ganja</tspan>
+                        </text>
+        </g>
+        <g>
+            <g fill-rule="nonzero" transform="translate(402 194)">
+                <use fill="#000" filter="url(#B)" xlink:href="#C"/>
+                <use fill="url(#D)" xlink:href="#C"/>
+            </g>
+            <text font-family="Montserrat-SemiBold, Montserrat" font-size="13" font-weight="500" letter-spacing=".542" fill="#FFF" transform="translate(402 194)">
+                            <tspan x="11.166" y="21">Shamakhi</tspan>
+                        </text>
+        </g>
+    </g>
+</svg>
